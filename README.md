@@ -31,7 +31,6 @@ cd <repository-directory>
 
 The custom decorator is defined with a condition that dictates its behavior. 
 
-
 ### Example Class Using the Decorator
 
 An example class `MyClass` demonstrates how to use the custom decorator:
